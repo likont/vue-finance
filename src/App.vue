@@ -16,7 +16,8 @@ export default {
     }
   },
   components: {
-    EmptyLayout, MainLayout
+    EmptyLayout,
+    MainLayout
   }
 }
 </script>
